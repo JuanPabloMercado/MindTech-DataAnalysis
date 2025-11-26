@@ -1,0 +1,103 @@
+# ============================================
+#   ARCHIVOS DEL SISTEMA OPERATIVO
+# ============================================
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+
+
+# ============================================
+#   ENTORNOS DE PYTHON
+# ============================================
+# Entornos virtuales
+env/
+venv/
+.venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Cache de Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Archivos de configuración generados
+*.egg-info/
+.eggs/
+*.egg
+dist/
+build/
+
+# Configuración de Jupyter
+.ipynb_checkpoints/
+
+# ============================================
+#   ARCHIVOS DE LOGS Y TEMPORALES
+# ============================================
+*.log
+*.tmp
+*.temp
+
+# ============================================
+#   DATOS (SOLO RUTAS ESPERADAS)
+# ============================================
+# Ignorar *raw data* y temporales
+data/raw/*
+data/interim/*
+
+# Pero permitir que la carpeta esté versionada
+!data/
+!data/raw/
+!data/interim/
+!data/processed/
+!data/external/
+
+# ============================================
+#   NOTEBOOKS ESPECÍFICOS PARA IGNORAR
+# ============================================
+
+# Ignorar notebooks específicos 
+notebooks/analisis_2_sueno_estres.ipynb
+notebooks/analisis_3_plataformas.ipynb
+notebooks/analisis_4_ejercicio_bienestar.ipynb
+notebooks/analisis_5_factores_felicidad.ipynb
+
+# Asegurar que la carpeta notebooks se incluya en el repo
+!notebooks/
+
+
+# ============================================
+#   NOTEBOOKS Y EXPORTS
+# ============================================
+# Archivos de checkpoints
+.ipynb_checkpoints/
+
+# HTML o PDF exportados opcionalmente
+exports/*.html
+exports/*.pdf
+
+# ============================================
+#   CONFIGURACIONES DE EDITORES
+# ============================================
+# VSCode
+.vscode/
+*.code-workspace
+
+# PyCharm
+.idea/
+
+# ============================================
+#   OTROS
+# ============================================
+# Archivos de backup
+*~
+*.bak
+
+# Carpetas temporales creadas por scripts
+tmp/
+temp/
