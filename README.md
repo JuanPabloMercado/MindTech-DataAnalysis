@@ -41,7 +41,11 @@ diferencias en la felicidad y otros indicadores de bienestar mental.
     ├── 📁 reports/
     │     ├── informe_final.md
     │     └── conclusiones_por_etapa.md
-    │
+    │ 
+    │── 📁 src/
+    │     ├── __init__.py
+    │     └── analisisPreprocesamiento.py
+    │     └── carga.py
     └── README.md
 
 ------------------------------------------------------------------------
