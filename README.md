@@ -96,7 +96,7 @@ parciales y el informe final.
 ## Estado del Proyecto
 
 ✔ Análisis 1 completado
-⬜ Análisis 2
+✔ Análisis 2
 ⬜ Análisis 3
 ⬜ Análisis 4
 ⬜ Análisis 5
