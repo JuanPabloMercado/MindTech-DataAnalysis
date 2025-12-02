@@ -62,7 +62,6 @@ data/interim/*
 # ============================================
 
 # Ignorar notebooks específicos 
-notebooks/analisis_3_plataformas.ipynb
 notebooks/analisis_4_ejercicio_bienestar.ipynb
 notebooks/analisis_5_factores_felicidad.ipynb
 

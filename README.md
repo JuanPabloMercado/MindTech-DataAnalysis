@@ -97,7 +97,7 @@ parciales y el informe final.
 
 ✔ Análisis 1 completado
 ✔ Análisis 2
-⬜ Análisis 3
+✔ Análisis 3
 ⬜ Análisis 4
 ⬜ Análisis 5
 ⬜ Informe final

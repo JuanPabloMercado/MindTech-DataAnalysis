@@ -25,3 +25,17 @@ Evaluar cómo la calidad del sueño y los niveles de estrés se relacionan con e
 En esta segunda etapa del análisis se examinan las variables *Sleep_Quality* y *Stress_Level* en conjunto con *Happiness_Index* y *Daily_Screen_Time*.  
 Se aplican estadísticas descriptivas, análisis exploratorio y visualizaciones para detectar tendencias, relaciones y posibles interacciones entre estas variables. Este enfoque permite comprender mejor cómo la combinación de sueño y estrés influye en los niveles de bienestar y el uso de dispositivos digitales.
 
+### Conclusión del Análisis 3 — Diferencias entre plataformas sociales
+
+El análisis comparativo muestra que, aunque existen variaciones en los niveles de felicidad, estrés y días sin redes sociales según la plataforma, ninguna red presenta un impacto extremo o determinante sobre el bienestar emocional. Las diferencias son claras, pero de magnitud moderada.
+
+**Happiness y Stress:**  
+Twitter y LinkedIn se ubican ligeramente por encima en felicidad, mientras que Instagram presenta los resultados menos favorables, combinando menor bienestar y mayor estrés. Sin embargo, las brechas entre plataformas son pequeñas, indicando que los hábitos del usuario influyen más que la plataforma en sí.
+
+**Días sin redes:**  
+TikTok, Facebook y Twitter muestran los mayores promedios de días desconectados, lo que podría reflejar saturación o necesidad de pausas más frecuentes. Instagram presenta menor desconexión, posiblemente vinculada a un uso más constante.
+
+**Correlación felicidad–estrés:**  
+Todas las plataformas mantienen una relación negativa fuerte entre felicidad y estrés, confirmando un patrón emocional consistente sin importar la red utilizada.
+
+En conjunto, los resultados indican que las plataformas influyen en la experiencia digital, pero no determinan los niveles de bienestar. Las diferencias observadas dependen más del perfil, motivaciones y hábitos del usuario, posicionando al comportamiento individual como el principal factor que moldea la relación entre redes sociales y bienestar. 
