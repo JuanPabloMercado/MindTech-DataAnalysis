@@ -1,4 +1,4 @@
-### 1. Conclusión del Análisis sobre Tiempo de Pantalla y Felicidad
+### 1. Conclusión del Análisis sobre Tiempo de Pantalla y Felicidad.
 
 El análisis realizado evidencia una relación negativa y consistente entre el tiempo de pantalla diario y el índice de felicidad de los individuos. A medida que aumentan las horas frente a dispositivos, se observa una disminución progresiva en los niveles de bienestar reportados.
 
@@ -16,16 +16,16 @@ En términos ejecutivos, los resultados apuntan a que **reducir el tiempo de pan
 ### 2. Análisis y correlación del sueño. 
 
 
-### Objetivo
+### Objetivo.
 
 Evaluar cómo la calidad del sueño y los niveles de estrés se relacionan con el índice de felicidad y el tiempo de pantalla, identificando patrones conjuntos que permitan comprender el bienestar general de los participantes. Este análisis busca determinar si existen efectos combinados de sueño y estrés sobre la felicidad reportada.
 
-### Descripción
+### Descripción.
 
 En esta segunda etapa del análisis se examinan las variables *Sleep_Quality* y *Stress_Level* en conjunto con *Happiness_Index* y *Daily_Screen_Time*.  
 Se aplican estadísticas descriptivas, análisis exploratorio y visualizaciones para detectar tendencias, relaciones y posibles interacciones entre estas variables. Este enfoque permite comprender mejor cómo la combinación de sueño y estrés influye en los niveles de bienestar y el uso de dispositivos digitales.
 
-### Conclusión del Análisis 3 — Diferencias entre plataformas sociales
+### 3. Diferencias entre plataformas sociales.
 
 El análisis comparativo muestra que, aunque existen variaciones en los niveles de felicidad, estrés y días sin redes sociales según la plataforma, ninguna red presenta un impacto extremo o determinante sobre el bienestar emocional. Las diferencias son claras, pero de magnitud moderada.
 
